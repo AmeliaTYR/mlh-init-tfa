@@ -1,0 +1,7 @@
+Dear {PERSON_NAME},
+
+Hello from Blahaj GANG!
+Here's your OTP!:
+{OTP}
+
+Go login ok bye
